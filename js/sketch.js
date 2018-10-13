@@ -6,4 +6,8 @@ function setup() {
 }
 
 function draw() {
+    rect(10, 10, 20, 20);
+    rect(66, 10, 20, 20);
+    rect(10, 66, 20, 20);
+    rect(66, 66, 20, 20);
 }
