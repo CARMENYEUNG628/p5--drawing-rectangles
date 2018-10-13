@@ -6,6 +6,7 @@ function setup() {
 }
 
 function draw() {
+    noStroke();
 
     rect(40, 40, WIDTH, HEIGHT, 10);
 
